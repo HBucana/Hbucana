@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**HBucana/Hbucana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello, Nice meeting you! 👋
 
  🔭 I’m currently studying to use flutter
  🌱 I don't have a lot of patience about it but I'm trying.
